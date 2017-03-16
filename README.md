@@ -2,6 +2,7 @@ RoundCornerLayout
 ==========
 [![Build Status](https://travis-ci.org/LegolasKwok/RoundCornerLayout.svg?branch=master)](https://travis-ci.org/LegolasKwok/RoundCornerLayout)
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
+[![Analytics](https://ga-beacon.appspot.com/UA-93806066-1/RoundCornerLayout/readme)](https://github.com/igrigorik/ga-beacon)
 
 A frame layout with rounded corners for Android.
 
